@@ -1,0 +1,30 @@
+.mainHeader {
+  background-color: black;
+  color: white;
+  padding-left: 10px;
+  font-family: cursive;
+}
+
+h2 {
+  background-color: rebeccapurple;
+  color: white;
+  padding: 10px;
+  text-align: center;
+  font-family: cursive;
+  font-style: italic;
+  font-weight: normal;
+}
+
+h3 {
+  background-color:rgb(32, 161, 221);
+  color: black;
+  padding: 10px;
+  text-align:end;
+  text-decoration: underline;
+  font-weight: 500;
+  font-family: cursive;
+}
+
+#cloud {
+  color: cyan;
+}
